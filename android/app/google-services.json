@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557625661362",
+    "project_id": "aslappauth",
+    "storage_bucket": "aslappauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557625661362:android:5240712a5afb6e38f5b6ab",
+        "android_client_info": {
+          "package_name": "com.maekrisler.aslApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWqbe4N9Xf6A95F5DXlHH3gPT4pe2t0UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
